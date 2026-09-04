@@ -12,7 +12,7 @@ Este repositório foi criado como parte da atividade avaliativa "Nível Básico 
 - [Nome do integrante 2] (@usuario-github)
 - [Nome do integrante 3] (@usuario-github)
 - [Iago Matos Vieira] (@yatokkj)
-- [Nome do integrante 5] (@usuario-github)
+- [Marcelo Teixeira] (@usuario-github)
 
 ## Como contribuir
 1. Clone o repositório:
@@ -23,3 +23,5 @@ Este repositório foi criado como parte da atividade avaliativa "Nível Básico 
 - Edney Araújo (UniEdney)
 - luis otavio ferreira (LuisFCyber)
 >>>>>>> 0a4923a07daebb89225c021a5a8f1029a4897f39
+
+Marcelo Teixeira 
