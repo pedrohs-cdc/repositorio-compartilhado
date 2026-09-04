@@ -8,6 +8,7 @@ Este repositório foi criado como parte da atividade avaliativa "Nível Básico 
 ## Integrantes
 - Pedro Henrique Sigismundo (@pedrohs-cdc)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [Nome do integrante 2] (@usuario-github)
 - [Nome do integrante 3] (@usuario-github)
 - [Iago Matos Vieira] (@yatokkj)
@@ -18,3 +19,7 @@ Este repositório foi criado como parte da atividade avaliativa "Nível Básico 
 =======
 - Edney Araújo (UniEdney)
 >>>>>>> eca37c3216fca7c832f82a437d370dd2a338d5d5
+=======
+- Edney Araújo (UniEdney)
+- luis otavio ferreira (LuisFCyber)
+>>>>>>> 0a4923a07daebb89225c021a5a8f1029a4897f39
