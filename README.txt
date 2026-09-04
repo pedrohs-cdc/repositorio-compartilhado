@@ -7,4 +7,6 @@ Este repositório foi criado como parte da atividade avaliativa "Nível Básico 
 
 ## Integrantes
 - Pedro Henrique Sigismundo (@pedrohs-cdc)
-- Edney Araújo (UniEdney)
+- Edney (UniEdney).
+
+Alteração a partir da minha Branch feature/Edney
