@@ -7,6 +7,7 @@ Este repositório foi criado como parte da atividade avaliativa "Nível Básico 
 
 ## Integrantes
 - Pedro Henrique Sigismundo (@pedrohs-cdc)
+<<<<<<< HEAD
 - [Nome do integrante 2] (@usuario-github)
 - [Nome do integrante 3] (@usuario-github)
 - [Iago Matos Vieira] (@yatokkj)
@@ -14,3 +15,6 @@ Este repositório foi criado como parte da atividade avaliativa "Nível Básico 
 
 ## Como contribuir
 1. Clone o repositório:
+=======
+- Edney Araújo (UniEdney)
+>>>>>>> eca37c3216fca7c832f82a437d370dd2a338d5d5
