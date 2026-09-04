@@ -7,10 +7,3 @@ Este repositório foi criado como parte da atividade avaliativa "Nível Básico 
 
 ## Integrantes
 - Pedro Henrique Sigismundo (@pedrohs-cdc)
-- [Nome do integrante 2] (@usuario-github)
-- [Nome do integrante 3] (@usuario-github)
-- [Nome do integrante 4] (@usuario-github)
-- [Nome do integrante 5] (@usuario-github)
-
-## Como contribuir
-1. Clone o repositório:
