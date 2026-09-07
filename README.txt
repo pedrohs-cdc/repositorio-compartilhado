@@ -5,7 +5,7 @@ Este repositório foi criado como parte da atividade avaliativa "Nível Básico 
 
 
 ## Integrantes
-- Pedro Henrique Sigismundo 
+- Pedro Henrique Sigismundo (@pedrohs-cdc)
 - [Luis Otavio Ferreira da Silva] (@LuisFCyber)
 - [Edney Araujo da Silva] (@UniEdney)
 - [Iago Matos Vieira] (@yatokkj)
